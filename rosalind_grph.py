@@ -1,4 +1,4 @@
-#first save rosalind_grph.txt as prova.txt
+#first save rosalind_grph.txt as prova.fasta
 
 from Bio import SeqIO
 
