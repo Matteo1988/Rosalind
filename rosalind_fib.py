@@ -15,4 +15,4 @@ def fibonacci(n,k):
     else:
         return fibonacci(n-1,k)+fibonacci(n-2,k)*k
     
-fibonacci(n_months, k_e
+fibonacci(n_months, k_el)
